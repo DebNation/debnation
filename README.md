@@ -1,4 +1,4 @@
-### Hi there 👋, I'm ***Debiprasad***
+### Hey there 👋, I'm ***Debiprasad***
 ![DebiprasadXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebiprasadXD&show_icons=true&theme=solarized-dark&count_private=True)
 I’m currently learning Flask, Django.
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebiprasadXD&layout=compact&)
