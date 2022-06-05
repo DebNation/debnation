@@ -1,7 +1,7 @@
-### Hey there 👋, I'm ***Debiprasad***
+### Hey there 👋, I'm ***Debiprasad*** Nice to see you here;
 ![DebiprasadXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebiprasadXD&show_icons=true&theme=solarized-dark&count_private=True)
 I’m currently learning Flask, Django.
-## Support me to Buy a Laptop or PC: 
+## Support me : 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/debiprasadxd)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebiprasadXD&layout=compact&)
