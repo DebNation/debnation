@@ -2,7 +2,7 @@
 ![DebiprasadXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebiprasadXD&show_icons=true&theme=solarized-dark&count_private=True)
 
 ## Support me : 
-[!["Buy Me A Coffee"](https://te.legra.ph/file/8b97a7981d8da8b261b49.jpg)](https://www.buymeacoffee.com/debiprasadxd)
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/debiprasadxd)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebiprasadXD&layout=compact&)
 --!>
