@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm ***Debiprasad***, Nice to see you here;
-![DebiprasadXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebiprasadXD&show_icons=true&theme=solarized-dark&count_private=True)
+![DebiprasadXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebXD&show_icons=true&theme=radical&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## Support me :
 <a href="https://www.buymeacoffee.com/debiprasadxd">
