@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm ***Debiprasad***, Nice to see you here;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebXD&layout=compact&theme=radical&count_private=False&include_all_commits=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebXD&layout=compact&count_private=False&include_all_commits=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)<br>
 ![DebiprasadXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebXD&show_icons=true&theme=radical&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## Support me :
