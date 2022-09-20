@@ -1,4 +1,5 @@
 ### Hey there 👋, I'm ***Debiprasad***, Nice to see you here;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebXD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![DebiprasadXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebXD&show_icons=true&theme=radical&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## Support me :
