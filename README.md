@@ -1,4 +1,5 @@
 ### Hey there 👋, I'm ***Debiprasad***, Glad to see you here;
+![debnation's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debnation&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebXD&layout=compact&count_private=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 <!-- ## Support me :
 <a href="https://www.buymeacoffee.com/debiprasadxd">
