@@ -1,5 +1,5 @@
 # ~~Fuck Society~~
-![](https://github.com/DebNation/debnation/blob/master/fsociety.gif)
+![](https://github.com/DebNation/debnation/blob/master/cat-coding.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
