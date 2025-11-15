@@ -1,6 +1,5 @@
 ### Hey there 👋, I'm ***Debi Prasad***;
 ![](https://github.com/DebNation/debnation/blob/master/fsociety.gif)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debnation&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
