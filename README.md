@@ -1,4 +1,4 @@
-# Fuck Society
+# ~~Fuck Society~~
 ![](https://github.com/DebNation/debnation/blob/master/fsociety.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
