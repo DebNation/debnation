@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm ***Debi Prasad***;
-![](https://app.koofr.net/content/links/7832e708-e3de-47c5-bd7a-3f1c9027e5d8/files/get/whiterose.gif)
+![](https://github.com/DebNation/debnation/blob/master/fsociety.gif)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debnation&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
